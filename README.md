@@ -13,6 +13,7 @@ A simple legacy tasking system build with PHP framework Verson 5.5.12 and jquery
 # Create Database
 
 for database, I use phpMyAdmin.
+the database .sql file is in the Connections file(C:\wamp\www\legacy_system\Connections\tasks.sql)
 
 - Network type    : mysqli
 - Hostname/IP     : 127.0.0.1
