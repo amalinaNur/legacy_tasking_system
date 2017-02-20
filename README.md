@@ -14,11 +14,11 @@ A simple legacy tasking system build with PHP framework Verson 5.5.12 and jquery
 
 for database, I use phpMyAdmin.
 
-Network type    : mysqli
-Hostname/IP     : 127.0.0.1
-User            : root
-Password        : 
-Port            : 3306
+- Network type    : mysqli
+- Hostname/IP     : 127.0.0.1
+- User            : root
+- Password        : 
+- Port            : 3306
 
 Lastly, visit the system with chrome/IE/firefox by url :
 
